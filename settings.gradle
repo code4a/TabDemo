@@ -1,0 +1,2 @@
+include ':app', ':baservadapter', ':lottery'
+rootProject.name='TabDemo'

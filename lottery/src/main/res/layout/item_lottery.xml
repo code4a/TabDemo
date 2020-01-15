@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp"
+    android:background="#f5f7f0"
+    tools:context=".LotteryActivity">
+
+    <com.jiangyt.lottery.widget.SingleRandomText
+        android:id="@+id/single_random_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="999"
+        android:textColor="#33b5e5"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+</FrameLayout>
