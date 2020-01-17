@@ -5,7 +5,7 @@
 ### 依赖
 
 ```
-implementation 'com.code4a.baservadapter:1.0.0'
+implementation 'com.code4a:baservadapter:1.0.0'
 ```
 
 ### 使用
